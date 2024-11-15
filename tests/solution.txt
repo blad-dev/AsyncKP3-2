@@ -1,0 +1,2 @@
+find -O3 . -name "*.pdf" | wc -l
+find -O3 . -name "*.txt" | wc -l
